@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://giphy.com/gifs/none-XucswHdQUYPhQSvvvN' />
+<img src='https://media0.giphy.com/media/XucswHdQUYPhQSvvvN/giphy.gif' />
 
 GIF created with [GifMaker](Android app).  
 
