@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://giphy.com/gifs/none-XucswHdQUYPhQSvvvN' title='Video Walkthrough' width='562' alt='Video Walkthrough' />
+<img src='https://giphy.com/gifs/none-XucswHdQUYPhQSvvvN' />
 
 GIF created with [GifMaker](Android app).  
 
